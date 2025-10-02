@@ -1,0 +1,53 @@
+{
+  "name": "Sempire Sempire #981",
+  "symbol": "SEMPIRE",
+  "description": "Welcome to the Sempire",
+  "seller_fee_basis_points": 700,
+  "image": "https://gateway.irys.xyz/4fKZqvsbLfgQZH3VZaTM7jiwqfTXzXJ2JknoNcrjwvCm/981.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dark Cloud"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Dark"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Agiles"
+    },
+    {
+      "trait_type": "Expression",
+      "value": "Wheat"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Youngster"
+    },
+    {
+      "trait_type": "Mask",
+      "value": "Kitsune"
+    },
+    {
+      "trait_type": "Texture",
+      "value": "Paper-Folds"
+    }
+  ],
+  "properties": {
+    "edition": 981,
+    "files": {
+      "0": {
+        "uri": "https://gateway.irys.xyz/4fKZqvsbLfgQZH3VZaTM7jiwqfTXzXJ2JknoNcrjwvCm/981.png",
+        "type": "image/png"
+      }
+    },
+    "creators": [
+      {
+        "address": "6dsB915ApjCkqtpqXCvLwgjM3bpRhERwueiTzbGSsmNw",
+        "share": 100
+      }
+    ],
+    "category": "image"
+  }
+}
